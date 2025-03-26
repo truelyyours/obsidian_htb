@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "a77f4ab120298e89",
+    "id": "7c1b865201b7ddf9",
     "type": "split",
     "children": [
       {
-        "id": "9d99a3a2e71dbd0e",
+        "id": "352a974c665306e7",
         "type": "tabs",
         "children": [
           {
-            "id": "2d31a1f7f38725ce",
+            "id": "d3d532d5b8c7ae3d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d21b3151a1b8d396",
+    "id": "f82e5a30d94d270d",
     "type": "split",
     "children": [
       {
-        "id": "9889d14a18cdf91f",
+        "id": "55cb01b956418298",
         "type": "tabs",
         "children": [
           {
-            "id": "1acaacc90b32d6b4",
+            "id": "9764089c85d2cee1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "9466d08e444329ee",
+            "id": "e1aa0b5c89d44f8f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "95a1b04895a1e2ed",
+            "id": "ed402a491e7daf8e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +74,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "fa2c3cf6f1446bfb",
+    "id": "45dc651e96af4724",
     "type": "split",
     "children": [
       {
-        "id": "d52fb8d495b5e067",
+        "id": "64be9996b9193686",
         "type": "tabs",
         "children": [
           {
-            "id": "7a0ff9f99c704f0f",
+            "id": "4818e7dd914c6974",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Back End Components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,53 +99,56 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Back End Components"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "670c6e12ac0936fd",
+            "id": "d1c61d30885ebf7e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "b620449c9b254fe8",
+            "id": "4ebfcde067448ede",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "c0fca2e29cb6ebb1",
+            "id": "68b98a16c35d3630",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -159,29 +161,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d31a1f7f38725ce",
-  "lastOpenFiles": [
-    "Back End Components.md",
-    "Front End Vulnerabilities.md",
-    "web-server-requests.jpg",
-    "backend-server 1.jpg",
-    "view_source1.webp",
-    "Front End Components.md",
-    "Introduction To Web Application.md",
-    "Web Requests.md",
-    "backend-server.jpg",
-    "frontend-components.jpg",
-    "image5-12.png",
-    "many-server-many-db-arch.jpg",
-    "many-server-one-db-arch.jpg",
-    "one-server-arch.jpg",
-    "client-server-model.jpg",
-    "path_bug_bounty_hunter/Web Requests.md",
-    "path_bug_bounty_hunter/README.md",
-    "path_bug_bounty_hunter/Introduction To Web Application.md",
-    "path_bug_bounty_hunter",
-    "README.md",
-    "Welcome.md",
-    "Complete.md"
-  ]
+  "active": "d3d532d5b8c7ae3d",
+  "lastOpenFiles": []
 }
